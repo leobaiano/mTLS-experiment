@@ -8,8 +8,7 @@ This project aims to show in practice the use of mTLS.
 
 For more information: [What is mutual TLS](https://www.cloudflare.com/en-us/learning/access-management/what-is-mutual-tls/)
 
-![TLS VS mTLS](https://github.com/leobaiano/mTLS-experiment/assets/957257/2a30b9cc-f537-494f-bbe8-0f92b0e0c45e)
-
+![TLS VS mTLS](tls-vs-mtls.jpg)
 
 ## How to use this repository
 
