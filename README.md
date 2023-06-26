@@ -6,7 +6,7 @@ This project aims to show in practice the use of mTLS.
 
 > mTLS ensures that the parties at either end of a network connection are who they claim to be by verifying that they both have the correct private key.
 
-For more information: (What is mutual TLS)[https://www.cloudflare.com/en-us/learning/access-management/what-is-mutual-tls/]
+For more information: [What is mutual TLS](https://www.cloudflare.com/en-us/learning/access-management/what-is-mutual-tls/)
 
 ## How to use this repository
 
