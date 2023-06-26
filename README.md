@@ -8,6 +8,9 @@ This project aims to show in practice the use of mTLS.
 
 For more information: [What is mutual TLS](https://www.cloudflare.com/en-us/learning/access-management/what-is-mutual-tls/)
 
+![TLS VS mTLS](https://github.com/leobaiano/mTLS-experiment/assets/957257/2a30b9cc-f537-494f-bbe8-0f92b0e0c45e)
+
+
 ## How to use this repository
 
 1. Create a host pointing to 127.0.0.1
